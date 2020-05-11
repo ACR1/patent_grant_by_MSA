@@ -4,7 +4,7 @@
 
 ## This is what you probably are looking for...
 The R markdown file knitted to HTML
-https://acr1.github.io/patent_grants_by_MSA/
+https://acr1.github.io/patent_grant_by_MSA/
 
 ## What else is here?
 You'll find a hodgepodge of R scripts for grabbing and extracting a few variables from bulk USPTO biblographic data. These are not particuarly robust and tailored to extract only variables I needed from year 2005 forward.
